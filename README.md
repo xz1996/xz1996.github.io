@@ -5,7 +5,7 @@
 
 { Personal } is a free responsive Jekyll theme, about you :wink:
 
-You can watch it in action [here](https://le4ker.github.io/personal-jekyll-theme/)!
+You can watch it in action [here](https://xz1996.github.io/)!
 
 <img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">
 
