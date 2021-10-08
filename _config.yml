@@ -133,9 +133,9 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 1, 2013 - July 1, 2017 "
-    description: "Undergraduate in CQUT"
+    description: "B.E., Internet of Things Engineering in CQUT"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "July 3, 2017 - today"
+    date: "July 3, 2017 - August 31, 2020"
     description: "MindSphere software engineer"
 
 # First image of the Timeline
