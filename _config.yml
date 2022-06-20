@@ -29,9 +29,9 @@ force-https: True
 #############
 
 lang: "en"
-author: "Jerry Shieh"
-title: "Jerry Shieh"
-description: "Blog and website of JERRY, blogging mainly for tech. Opinions expressed are mine."
+author: "Zane"
+title: "Zane"
+description: "Blog and website of Zane, blogging mainly for tech. Opinions expressed are mine."
 keywords: "code personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -156,7 +156,7 @@ email: "infinite.striving@outlook.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Jerry Shieh is a novice programmer."
+author_blurb: "Zane is a novice programmer."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -181,7 +181,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-# keybase-username: Jerry Shieh
+# keybase-username: Zane
 # keybase-in-social: True
 # keybase-in-footer: True
 
