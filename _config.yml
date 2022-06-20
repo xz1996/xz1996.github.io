@@ -133,7 +133,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 10, 2013 - June 28, 2017 "
-    description: "B.E., Internet of Things Engineering in CQUT"
+    description: "B.E., Internet of Things Engineering at CQUT"
   - image: "/img/timeline/baracktocat.jpg"
     date: "July 3, 2017 - August 31, 2020"
     description: "MindSphere software engineer"
