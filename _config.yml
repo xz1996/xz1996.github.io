@@ -133,13 +133,13 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 10, 2013 - June 28, 2017 "
-    description: "B.E., Internet of Things Engineering at CQUT"
+    description: "B.E., Internet of Things Engineering in CQUT"
   - image: "/img/timeline/baracktocat.jpg"
     date: "July 3, 2017 - August 31, 2020"
-    description: "MindSphere software engineer"
+    description: "MindSphere software engineer in Siemens"
   - image: "/img/timeline/foundingfather-octocat.png"
     date: "August 20, 2022 - Present"
-    description: "MTech in Software Engineering at NUS"
+    description: "MTech in Software Engineering of NUS"
 
 # First image of the Timeline
 
