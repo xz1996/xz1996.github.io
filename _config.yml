@@ -137,6 +137,9 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "July 3, 2017 - August 31, 2020"
     description: "MindSphere software engineer"
+  - image: "/img/timeline/default.jpg"
+    date: "August 20, 2022 - Present"
+    description: "MTech in Software Engineering at NUS"
 
 # First image of the Timeline
 
